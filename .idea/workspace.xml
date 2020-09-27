@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41d4938b-e02b-434d-8fa6-eeab87dbe62f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="323" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hsCJaB010yfRgYRWzEYhvJCAOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.demo.controllers" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SareetaApplication">
+    <configuration name="SareetaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.SareetaApplication" />
+      <module name="auth-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controllers.CartControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controllers.UserControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.demo in auth-course" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.demo.controllers in auth-course" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controllers" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SareetaApplication" />
+        <item itemvalue="JUnit.com.example.demo.controllers in auth-course" />
+        <item itemvalue="JUnit.CartControllerTest" />
+        <item itemvalue="JUnit.UserControllerTest" />
+        <item itemvalue="JUnit.com.example.demo in auth-course" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41d4938b-e02b-434d-8fa6-eeab87dbe62f" name="Default Changelist" comment="" />
+      <created>1600790341507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600790341507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1496" y="-825" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1601079144661">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1496" y="-825" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1601079144661" />
+    <state x="1488" y="-777" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601131222843">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1488" y="-777" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1601131222843" />
+    <state x="1571" y="-896" key="#com.intellij.ide.util.MemberChooser" timestamp="1601061641299">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1571" y="-896" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1601061641299" />
+    <state x="1571" y="-896" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600825396704" />
+    <state x="1546" y="-825" key="FileChooserDialogImpl" timestamp="1600827258259">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1546" y="-825" key="FileChooserDialogImpl/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600827258259" />
+    <state width="1876" height="209" key="GridCell.Tab.0.bottom" timestamp="1601132543365">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state width="1876" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1601132543365" />
+    <state width="1876" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600980134283" />
+    <state width="1876" height="209" key="GridCell.Tab.0.center" timestamp="1601132543365">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state width="1876" height="209" key="GridCell.Tab.0.center/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1601132543365" />
+    <state width="1876" height="268" key="GridCell.Tab.0.center/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600980134283" />
+    <state width="1876" height="209" key="GridCell.Tab.0.left" timestamp="1601132543365">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state width="1876" height="209" key="GridCell.Tab.0.left/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1601132543365" />
+    <state width="1876" height="268" key="GridCell.Tab.0.left/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600980134283" />
+    <state width="1876" height="209" key="GridCell.Tab.0.right" timestamp="1601132543365">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state width="1876" height="209" key="GridCell.Tab.0.right/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1601132543365" />
+    <state width="1876" height="268" key="GridCell.Tab.0.right/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600980134283" />
+    <state x="1537" y="-877" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601002837854">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1537" y="-877" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1601002837854" />
+    <state x="1429" y="-866" width="672" height="678" key="search.everywhere.popup" timestamp="1601089859911">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1429" y="-866" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1601089859911" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auth_course$All_in_auth_course.ic" NAME="All in auth-course Coverage Results" MODIFIED="1601076815901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/auth_course$com_example_demo_in_auth_course.ic" NAME="com.example.demo in auth-course Coverage Results" MODIFIED="1601076888605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$com_example_demo_controllers_in_auth_course.ic" NAME="com.example.demo.controllers in auth-course Coverage Results" MODIFIED="1601070801135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+  </component>
+</project>

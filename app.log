@@ -1,0 +1,37 @@
+2020-09-26 10:50:10,774 INFO com.example.demo.SareetaApplication [main] Starting SareetaApplication on LAPTOP-SK4QOEE1 with PID 2672 (started by Ruslan Idrisov in C:\Users\Ruslan Idrisov\Documents\Programming\Udacity\Java\projects\eCommerce)
+2020-09-26 10:50:10,778 DEBUG com.example.demo.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-09-26 10:50:10,779 INFO com.example.demo.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2020-09-26 10:50:13,125 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-09-26 10:50:13,126 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-09-26 10:50:13,382 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-09-26 10:50:13,634 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2020-09-26 10:50:13,927 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2020-09-26 10:50:13,997 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-09-26 10:50:14,091 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2020-09-26 10:50:14,093 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2020-09-26 10:50:14,289 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2020-09-26 10:50:14,495 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-09-26 10:50:16,774 INFO com.example.demo.SareetaApplication [main] Started SareetaApplication in 6.602 seconds (JVM running for 7.205)
+2020-09-26 10:50:58,440 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-6] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-26 10:50:58,728 ERROR com.example.demo.controllers.UserController [http-nio-8080-exec-6] Failed to create User. Password does not meet criteria. Username: Bazooka
+2020-09-26 10:51:14,894 ERROR com.example.demo.controllers.UserController [http-nio-8080-exec-10] Failed to create User. Password does not meet criteria. Username: Bazooka
+2020-09-26 10:51:23,512 INFO com.example.demo.controllers.UserController [http-nio-8080-exec-9] Successfully created User. Username is set: Bazooka
+2020-09-26 10:53:12,942 DEBUG com.example.demo.security.JWTAuthenticationFilter [http-nio-8080-exec-10] Request is to process authentication
+2020-09-26 10:53:13,072 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-8080-exec-10] HHH000397: Using ASTQueryTranslatorFactory
+2020-09-26 10:56:25,686 INFO com.example.demo.controllers.CartController [http-nio-8080-exec-4] Item added to the cart: Cart{id=3, items=[com.example.demo.model.persistence.Item@20, com.example.demo.model.persistence.Item@20], user=com.example.demo.model.persistence.User@568bb755, total=5.98}
+2020-09-26 10:56:42,897 ERROR com.example.demo.controllers.CartController [http-nio-8080-exec-1] Failed to add item to the cart. User not found with username: Harry
+2020-09-26 10:57:03,076 INFO com.example.demo.controllers.CartController [http-nio-8080-exec-3] Item added to the cart: Cart{id=3, items=[com.example.demo.model.persistence.Item@20, com.example.demo.model.persistence.Item@20, com.example.demo.model.persistence.Item@21, com.example.demo.model.persistence.Item@21], user=com.example.demo.model.persistence.User@c22149d, total=9.96}
+2020-09-26 10:57:12,790 ERROR com.example.demo.controllers.CartController [http-nio-8080-exec-6] Failed to add item to the cart. Item not found with id: 3
+2020-09-26 10:57:42,891 INFO com.example.demo.controllers.CartController [http-nio-8080-exec-7] Item removed from the cart: Cart{id=3, items=[com.example.demo.model.persistence.Item@20, com.example.demo.model.persistence.Item@21, com.example.demo.model.persistence.Item@21], user=com.example.demo.model.persistence.User@6e3fa163, total=6.97}
+2020-09-26 10:58:01,612 INFO com.example.demo.controllers.CartController [http-nio-8080-exec-10] Item removed from the cart: Cart{id=3, items=[com.example.demo.model.persistence.Item@21, com.example.demo.model.persistence.Item@21], user=com.example.demo.model.persistence.User@7bd17ac4, total=0.99}
+2020-09-26 10:58:13,998 INFO com.example.demo.controllers.CartController [http-nio-8080-exec-2] Item added to the cart: Cart{id=3, items=[com.example.demo.model.persistence.Item@21, com.example.demo.model.persistence.Item@21, com.example.demo.model.persistence.Item@20], user=com.example.demo.model.persistence.User@afa9d5b, total=3.98}
+2020-09-26 10:59:54,928 INFO com.example.demo.controllers.UserController [http-nio-8080-exec-5] Successfully submitted order: com.example.demo.model.persistence.UserOrder@1fd06710
+2020-09-26 11:00:20,007 ERROR com.example.demo.controllers.UserController [http-nio-8080-exec-4] Failed to submit the order. User not found with username: Harry
+2020-09-26 11:00:37,385 ERROR com.example.demo.controllers.UserController [http-nio-8080-exec-1] Failed to get orders for user. User not found with username: Harry
+2020-09-26 11:01:54,193 ERROR com.example.demo.controllers.UserController [http-nio-8080-exec-10] Failed to create User. Password does not meet criteria. Username: Harry
+2020-09-26 11:02:12,376 INFO com.example.demo.controllers.UserController [http-nio-8080-exec-9] Successfully created User. Username is set: Harry
+2020-09-26 17:07:48,571 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h30s299ms393µs700ns).
+2020-09-26 19:31:23,986 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h23m39s539ms948µs).
+2020-09-26 21:28:07,404 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m12s515ms505µs).
